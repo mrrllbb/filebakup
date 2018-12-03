@@ -2,7 +2,7 @@
 
 # First argument: Client identifier
 
-KEY_DIR=/etc/openvpn/easy-rsa/keys
+KEY_DIR=~/openvpn-ca/keys
 OUTPUT_DIR=~/client-configs/files
 BASE_CONFIG=~/client-configs/base.conf
 
